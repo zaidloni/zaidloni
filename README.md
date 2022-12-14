@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zaidloni
-- 👀 I’m interested in DSA
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in Web
+- 🌱 I’m currently learning Web Technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...zaidloni20@gmail.com
 
