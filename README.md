@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Web Technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...zaidloni20@gmail.com
+- Portfolio - https://zaidloni.netlify.app/
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidloni&show_icons=true&locale=en" alt="zaidloni" /></p>
